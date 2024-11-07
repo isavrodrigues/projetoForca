@@ -1,7 +1,7 @@
 # Jogador de Forca 
 
 ## Objetivo
-O objetivo deste projeto é criar um jogador automático para o jogo de forca, utilizando conceitos de entropia e distribuição de probabilidades para otimizar a escolha das letras e adivinhar a palavra o mais rápido possível. O desempenho do jogador automático é avaliado através de simulações de partidas, calculando a taxa de sucesso em 100 jogos.
+
 
 ## Conceitos Utilizados
 
