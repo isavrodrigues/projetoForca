@@ -1,7 +1,7 @@
 # Jogador de Forca 
 
 ## Objetivo
-
+Utilizando conceitos de álgebra linear, entropia e probabilidades, o objetivo do jogo é simular e prever as jogadas de forma eficaz, maximizando o sucesso no jogo da forca.
 
 ## Conceitos Utilizados
 
